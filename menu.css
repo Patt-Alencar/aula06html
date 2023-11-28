@@ -1,0 +1,16 @@
+table{
+    background-color: #B31312;
+    border: 1px solid;
+    width: 70%;
+    text-align: center;
+    color: #EEE2DE;
+    
+}
+
+.alinhamento{
+    text-align: left;
+}
+
+.hover{
+    background-color: #EEE2DE;
+}
