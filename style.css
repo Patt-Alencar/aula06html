@@ -1,3 +1,31 @@
+
+header{
+    background-color: #B31312;
+    color: #2B2A4C;
+    width: 100%;
+    align-items: center;
+
+}
+
 ul{
     list-style: none;
+    font-size: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    align-items: flex-start;
+}
+
+a{
+    color: #EEE2DE;
+    text-decoration: none;
+}
+
+h1{
+    color: #2B2A4C;
+}
+
+body{
+    background-color: #EEE2DE;
 }
